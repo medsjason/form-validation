@@ -1,0 +1,36 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+    margin: 5%;
+
+    
+}
+input{
+    border-radius: 40px;
+    height: 40px;
+    width: 400px;
+    margin: 20px;
+    border-color: orange;
+}
+.receive{
+    margin-left: 22px;
+}
+h2{
+    margin-left: 120px;
+    margin-bottom: 20px;
+}
+h5{
+    margin-left: 22px;
+    height: 20px;
+    width: 400px;   
+}
+#div22{
+    width: 375px;
+    height: 211px;
+    border: 1px solid black;
+    background-position: center;
+    background-size: cover;
+}
